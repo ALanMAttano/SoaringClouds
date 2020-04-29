@@ -30,6 +30,7 @@
 	? Since only change resolution, "Congestus" name is confusing
 	? Universal .exe installer. Difficulty creating an installer (consider Wix installer).
 	? Flickering: This is a Condor or GPU rendering optimization side problem (alpha blending)
+	? CC0 is confusing and long (consider take it out and make a simple one[use it as you wish])
 
 
 
@@ -49,6 +50,9 @@
 	* Improve this info text note
 	* I take out Cirrus 2 because not sure if I'm the author of original picure.
 	* I take out .exe installetion and uninstaller.
+	* Perpetual link
+	* Github repository
+	* CC0 licens
 
   Bug Fixing:
 	! There are no more borders at the base of the cloud

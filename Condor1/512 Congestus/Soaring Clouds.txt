@@ -1,0 +1,99 @@
+
+
+/***************************************************************************
+* 
+*  2020 Alan Mattano
+*  SOARING STARS Lab
+*  Soaring Clouds }}
+*      
+*      512 kb Cumulus Congestus for Condor1
+* 
+*      V 1.3 Distribution is allowed
+* 
+*      (C) Alan Mattano, SoaringStarsLab, Buenos Aires 2020 - Italy 2007
+* 
+*      Original made for Instructor: 
+*					#Nyal Williams
+* 
+* *************************************************************************/
+
+
+	NOTE: 	Special Thx to Condor authors, OXO, Condor-club.eu, forum community, 
+	and other cloud developers for their passion and patient.
+
+
+
+	KNOWN ISSUES
+
+	? Since only change resolution, "Congestus" name is confusing
+	? Universal .exe installer. Difficulty creating an installer (consider Wix installer).
+	? Flickering: This is a Condor or GPU rendering optimization side problem (alpha blending)
+
+
+
+	HISTORY
+	~~~~~~~
+
+
+--------------------------------v1.3 Congestus
+  2020
+
+	* Virus scan OK 2020
+	* Alpha: border corrections
+	* Alpha: Black more intense
+	* Alpha: Cloud was transparent
+	* Color correction
+	* Soaring Stars Lab branding logo
+	* Improve this info text note
+	* I take out Cirrus 2 because I'm not sure of its origin.
+	* I take out .exe installetion and uninstaller.
+
+  Bug Fixing:
+	! There are no more borders at the base of the cloud
+	! There are no cloud dots
+	! The clouds were transparent
+	! Admin dificultis in Windows 10
+
+--------------------------------v1.2 Congestus
+
+	Texture Signature
+
+--------------------------------v1.1 Congestus
+  2010
+
+	modification made for bug: 
+	Google Browser communication fit better (no autostart .exe)
+	add more blur in outlines
+	delate black
+
+--------------------------------v1 Congestus
+
+	Exe file
+	.exe with auto Client Name inside, IP PHP and installation code number
+
+________________________________Beta 0.3 Cumulus
+
+	512 x 4098
+	less saturation
+	uniform color
+________________________________Beta 0.2
+
+	I add a much nicer color in the sky. Improving in better beauty the soring especially in end day conditions
+	lens flare differently
+	Cirrus with different colors.
+	windy day feeling introducing lenticulars wave feeling in hi alt clouds
+
+________________________________Beta 0.1
+
+  2007
+
+	ci sono tutte le nuvole le 8 dentro clouds e clouds disipation
+	ma se voglio testarle
+	solo 4 clouds come test per volta
+	CloudsDissipate (corta) from the 2048 izq
+
+  buscar
+	Color Cirrus or lenticular? 
+	I do not remember. I search on internet and do not match.
+	(Confiusing)
+_______________________________________________________________}}

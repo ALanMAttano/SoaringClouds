@@ -8,12 +8,14 @@
 *      
 *      512 kb Cumulus Congestus for Condor1
 * 
-*      V 1.3 Distribution is allowed
+*      V 1.3 Distribution is allowed Creative Commons CC0 Public Domain
 * 
 *      (C) Alan Mattano, SoaringStarsLab, Buenos Aires 2020 - Italy 2007
 * 
 *      Original made for Instructor: 
 *					#Nyal Williams
+*
+*      Full Source Code: https://github.com/ALanMAttano/SoaringClouds
 * 
 * *************************************************************************/
 
@@ -45,7 +47,7 @@
 	* Color correction
 	* Soaring Stars Lab branding logo
 	* Improve this info text note
-	* I take out Cirrus 2 because I'm not sure of its origin.
+	* I take out Cirrus 2 because not sure if I'm the author of original picure.
 	* I take out .exe installetion and uninstaller.
 
   Bug Fixing:

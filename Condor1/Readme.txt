@@ -24,7 +24,7 @@ Right-click on the .zip file and click "Extract All..." anywhere.
 CONDOR
 Select all the files that are inside the folder "512 Congestus".
 These .tga and .txt files that are inside the uncompressed:
-SoaringClouds\512 Congestus V1.x
+SoaringClouds\512 Congestus
 And drag and drop them (+ shift for making a copy and not moving them) into the Condor1 cloud folder:
 C:\Program Files (x86)\Condor\World\Clouds
 
